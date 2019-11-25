@@ -1,3 +1,3 @@
 this file was created in vs code
 
-and then modified for a git hub sync test in from a jupyter workspace
+and then modified for a git hub sync test in from a jupyter workspace...
