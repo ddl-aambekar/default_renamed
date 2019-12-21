@@ -19,4 +19,4 @@ def my_model(start, stop):
     return dict(a_random_number=random_number(start, stop))
 
 if __name__ == '__main__':
-    my_model(sys.argv[1], sys.argv[2])
+    my_model(int(sys.argv[1]), int(sys.argv[2]))
