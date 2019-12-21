@@ -16,3 +16,6 @@ print('model from github called!!!')
 def my_model(start, stop):
     print('my_model from github method called!!!')
     return dict(a_random_number=random_number(start, stop))
+
+if __name__ == '__main__':
+    my_model(start, stop)
