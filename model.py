@@ -9,7 +9,7 @@ import sys
 def random_number(start, stop):
     return random.uniform(start, stop)
 
-print('model from github called!!!')
+print('Model from github called!!! This is the develop branch')
 
 # Define a function to create an API
 # To call, use {"data": {"start": 1, "stop": 100}}
@@ -18,5 +18,5 @@ def my_model(start, stop):
     print('my_model from github method called!!!')
     return dict(a_random_number=random_number(start, stop))
 
-if __name__ == '__main__':
-    my_model(int(sys.argv[1]), int(sys.argv[2]))
+# if __name__ == '__main__':
+#     my_model(int(sys.argv[1]), int(sys.argv[2]))
