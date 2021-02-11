@@ -1,1 +1,3 @@
 This file was created from a git based project.
+
+And then this file was changed in Git.
