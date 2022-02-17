@@ -1,3 +1,3 @@
 testing git push from terminal #4
 
-modified outside Domino
+change made from Domino

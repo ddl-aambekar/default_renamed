@@ -1,6 +1,6 @@
 testing git push from terminal #4
 
-changed directly in master outside Domino
-
-modified inside Domino
-
+modified outside Domino
+=======
+change made from Domino
+>>>>>>> 39df5c8 
