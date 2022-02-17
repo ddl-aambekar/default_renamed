@@ -1,1 +1,3 @@
 testing git push from terminal #4
+
+changed directly in master outside Domino
