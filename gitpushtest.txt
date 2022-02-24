@@ -1,3 +1,6 @@
 testing git push from terminal #4
 
 make a change from outside of Domino
+
+added this comment from inside of Domino
+

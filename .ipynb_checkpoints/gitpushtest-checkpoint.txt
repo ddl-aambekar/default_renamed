@@ -1,6 +1,6 @@
 testing git push from terminal #4
 
-Modified from outside of Domino
+make a change from outside of Domino
 
-Changes from inside of Domino that they'd like to sync
+added this comment from inside of Domino
 
