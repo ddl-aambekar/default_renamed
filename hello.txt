@@ -5,3 +5,5 @@ I'm great!
 how about yourself?
 
 Very good. Feels good to master Domino :)
+
+Made changes from outside of Domino which are not synced in the workspace
