@@ -10,3 +10,4 @@ Made changes from outside of Domino which are not synced in the workspace
 
 You made changes inside Domino not realizing that the remote origin/master changed!
 
+Made this change after renaming the git repo.
