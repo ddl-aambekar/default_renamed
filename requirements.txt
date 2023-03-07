@@ -1,2 +1,3 @@
 scrypt==0.8.17
 gapminder
+low-code-assistant
